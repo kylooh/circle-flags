@@ -67,7 +67,6 @@
   <div><img src="flags/cl.svg" width="96"/><p>Chile (<code>cl</code>)</p></div>
   <div><img src="flags/cm.svg" width="96"/><p>Cameroon (<code>cm</code>)</p></div>
   <div><img src="flags/cn.svg" width="96"/><p>China (<code>cn</code>)</p></div>
-  <div><img src="flags/cn-xj.svg" width="96"/><p>Xinjiang (<code>cn-xj</code>)</p></div>
   <div><img src="flags/co.svg" width="96"/><p>Colombia (<code>co</code>)</p></div>
   <div><img src="flags/cq.svg" width="96"/><p>Sark (<code>cq</code>)</p></div>
   <div><img src="flags/cr.svg" width="96"/><p>Costa Rica (<code>cr</code>)</p></div>
@@ -85,6 +84,7 @@
   <div><img src="flags/dz.svg" width="96"/><p>Algeria (<code>dz</code>)</p></div>
   <div><img src="flags/earth.svg" width="96"/><p>Earth</p></div>
   <div><img src="flags/east_african_federation.svg" width="96"/><p>East African Federation</p></div>
+  <div><img src="flags/east_turkestan.svg" width="96"/><p>East Turkestan</p></div>
   <div><img src="flags/easter_island.svg" width="96"/><p>Easter Island</p></div>
   <div><img src="flags/ec.svg" width="96"/><p>Ecuador (<code>ec</code>)</p></div>
   <div><img src="flags/ec-w.svg" width="96"/><p>Galápagos (<code>ec-w</code>)</p></div>
